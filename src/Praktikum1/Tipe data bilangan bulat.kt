@@ -1,3 +1,5 @@
+package Praktikum1
+
 fun main(args: Array<String>) {
     val minByte: Byte = -128
     val maxByte: Byte = 127 // 8bit

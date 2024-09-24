@@ -1,3 +1,5 @@
+package Praktikum1
+
 fun main(args: Array<String>) {
     // Character occurrence in a sentence analysis
     // the string that we want to analyze

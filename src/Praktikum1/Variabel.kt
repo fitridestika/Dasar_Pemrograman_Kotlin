@@ -1,3 +1,5 @@
+package Praktikum1.Praktikum1
+
 fun main(args: Array<String>) {
     var dynamicVar = 2
     println("contoh dynamic variabel = " + dynamicVar)

@@ -1,3 +1,5 @@
+package Praktikum1
+
 fun main(args: Array<String>) {
     val s = "Rhinopotamus"
     println(s.startsWith("rhin"))

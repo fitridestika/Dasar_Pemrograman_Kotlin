@@ -1,3 +1,5 @@
+package Praktikum1
+
 fun main(args: Array<String>) {
     //Simple calculator
     println("Welcome to calculator")
